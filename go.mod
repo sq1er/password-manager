@@ -1,4 +1,4 @@
-module PasswordManager
+module passwordmanager
 
 go 1.24.1
 

@@ -1,8 +1,8 @@
 package files
 
 import (
-	"PasswordManager/output"
 	"os"
+	"passwordmanager/output"
 )
 
 type JsonDb struct {

@@ -1,12 +1,12 @@
 package main
 
 import (
-	"PasswordManager/account"
-	"PasswordManager/encrypter"
-	"PasswordManager/files"
-	"PasswordManager/output"
 	"fmt"
 	"net/url"
+	"passwordmanager/account"
+	"passwordmanager/encrypter"
+	"passwordmanager/files"
+	"passwordmanager/output"
 	"strings"
 
 	"github.com/fatih/color"

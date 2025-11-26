@@ -1,9 +1,9 @@
 package account
 
 import (
-	"PasswordManager/encrypter"
-	"PasswordManager/output"
 	"encoding/json"
+	"passwordmanager/encrypter"
+	"passwordmanager/output"
 	"time"
 )
 

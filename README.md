@@ -1,4 +1,4 @@
-# PasswordManager
+# passwordmanager
 
 ## 1. Описание
 
@@ -30,8 +30,8 @@
 ### Установка
 1. Клонируйте репозиторий:
    ```powershell
-   git clone https://github.com/Sq1er/PasswordManager.git
-   cd PasswordManager
+   git clone https://github.com/sq1er/passwordmanager.git
+   cd passwordmanager
    ```
 
 2. Создайте файл `.env` в корне проекта и добавьте в него ваш ключ шифрования:
@@ -64,7 +64,7 @@ go run .
 Сборка и запуск исполняемого файла:
 ```powershell
 go build 
-.\PasswordManager.exe
+.\passwordmanager.exe
 ```
 
 ---
