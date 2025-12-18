@@ -2,9 +2,10 @@ package account
 
 import (
 	"encoding/json"
-	"passwordmanager/encrypter"
-	"passwordmanager/output"
 	"time"
+
+	"github.com/sq1er/password-manager/encrypter"
+	"github.com/sq1er/password-manager/output"
 )
 
 type Db interface {

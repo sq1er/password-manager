@@ -2,7 +2,8 @@ package files
 
 import (
 	"os"
-	"passwordmanager/output"
+
+	"github.com/sq1er/password-manager/output"
 )
 
 type JsonDb struct {

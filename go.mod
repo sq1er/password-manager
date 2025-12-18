@@ -1,4 +1,4 @@
-module passwordmanager
+module github.com/sq1er/password-manager
 
 go 1.24.1
 

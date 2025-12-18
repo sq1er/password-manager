@@ -3,11 +3,12 @@ package main
 import (
 	"fmt"
 	"net/url"
-	"passwordmanager/account"
-	"passwordmanager/encrypter"
-	"passwordmanager/files"
-	"passwordmanager/output"
 	"strings"
+
+	"github.com/sq1er/password-manager/account"
+	"github.com/sq1er/password-manager/encrypter"
+	"github.com/sq1er/password-manager/files"
+	"github.com/sq1er/password-manager/output"
 
 	"github.com/fatih/color"
 	"github.com/joho/godotenv"
